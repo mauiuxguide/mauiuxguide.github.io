@@ -166,13 +166,13 @@ article {
 
 html[data-theme='dark'] {
   --ifm-background-color: #000000;
-  --ifm-hover-overlay: rgba(0, 213, 255, 0.1);
+  --ifm-hover-overlay: rgba(212, 0, 255, 0.1);
   --ifm-font-color-base: #e6e6e6;
   --ifm-toc-border-color: #262626;
   --ifm-heading-color: #ffffff;
-  --ifm-color-primary: #00d5ff;
-  --ifm-link-color: #00d5ff;
-  --ifm-menu-color-background-active: rgba(0, 213, 255, 0.1);
+  --ifm-color-primary: #ea00ff;
+  --ifm-link-color: #ea00ff;
+  --ifm-menu-color-background-active: rgba(234, 27, 241, 0.1);
 
   main {
     .container {
@@ -207,12 +207,12 @@ html[data-theme='dark'] {
 
 html[data-theme='light'] {
   ---ifm-navbar-background-color: #ffffff;
-  --ifm-hover-overlay: rgba(0, 213, 255, 0.1);
+  --ifm-hover-overlay: rgba(255, 0, 242, 0.1);
   --ifm-font-color-base: #000000;
   --ifm-toc-border-color: #e6e6e6;
-  --ifm-link-color: #0055ff;
-  --ifm-color-primary: #0055ff;
-  --ifm-menu-color-background-active: rgba(0, 85, 255, 0.08);
+  --ifm-link-color: #cc00ff;
+  --ifm-color-primary: #cc00ff;
+  --ifm-menu-color-background-active: rgba(255, 0, 234, 0.08);
 
   body {
     background-color: $color-gray-12;

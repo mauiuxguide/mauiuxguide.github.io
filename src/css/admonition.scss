@@ -17,13 +17,13 @@ article {
   }
 
   .admonition-tip {
-    --ifm-heading-color: #00e3bd;
-    --ifm-alert-border-color: #00e3bd;
+    --ifm-heading-color: #b600e3;
+    --ifm-alert-border-color: #b600e3;
   }
 
   .admonition-info {
-    --ifm-heading-color: #00d5ff;
-    --ifm-alert-border-color: #00d5ff;
+    --ifm-heading-color: #f700ff;
+    --ifm-alert-border-color: #f700ff;
   }
 
   .admonition-caution {
@@ -46,11 +46,11 @@ html[data-theme='light'] {
     }
 
     .admonition-tip {
-      --ifm-alert-background-color: rgba(0, 227, 189, 0.08);
+      --ifm-alert-background-color: rgba(208, 0, 227, 0.08);
     }
 
     .admonition-info {
-      --ifm-alert-background-color: rgba(0, 213, 255, 0.08);
+      --ifm-alert-background-color: rgba(255, 0, 242, 0.08);
     }
 
     .admonition-caution {
@@ -72,11 +72,11 @@ html[data-theme='dark'] {
     }
 
     .admonition-tip {
-      --ifm-alert-background-color: rgba(0, 227, 189, 0.1);
+      --ifm-alert-background-color: rgba(174, 0, 227, 0.1);
     }
 
     .admonition-info {
-      --ifm-alert-background-color: rgba(0, 213, 255, 0.1);
+      --ifm-alert-background-color: rgba(247, 0, 255, 0.1);
     }
 
     .admonition-caution {

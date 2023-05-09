@@ -57,7 +57,7 @@ module.exports = {
     {
       types: ['selector', 'char', 'builtin', 'inserted'],
       style: {
-        color: '#00D5FF',
+        color: '#EA00FF',
       },
     },
     {
