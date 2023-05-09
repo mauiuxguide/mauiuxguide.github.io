@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160.846" height="32" viewBox="0 0 160.846 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="1.13" y2="1.422" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#790e84"/>
+      <stop offset="0.684" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.703" y1="0.574" x2="0.444" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#790e84"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="logo-light-bg" transform="translate(2685.92 -10715.701)">
+    <text id="MAUINIVERSE" transform="translate(-2638.074 10727.701)" font-size="15" font-family="Mona-Sans-SemiBold, Mona-Sans" font-weight="600" letter-spacing="0.035em"><tspan x="0" y="0">MAUINIVERSE</tspan></text>
+    <text id="Documentation" transform="translate(-2637.77 10743.998)" font-size="10" font-family="Mona-Sans-Medium, Mona-Sans" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">Documentation</tspan></text>
+    <g id="brand2" transform="translate(-2685.92 10715.701)">
+      <path id="Sustracción_15" data-name="Sustracción 15" d="M23.919,30.566H9.707a2.624,2.624,0,0,1-2.255-1.328L.338,16.618a2.8,2.8,0,0,1,0-2.669L7.452,1.328A2.624,2.624,0,0,1,9.707,0H23.919a2.624,2.624,0,0,1,2.255,1.328l7.114,12.621a2.8,2.8,0,0,1,0,2.669l-7.114,12.62A2.628,2.628,0,0,1,23.919,30.566Zm-2.01-19.906h0V22.34h2.375V8.325h-3.76l-3.8,9.874L12.893,8.325H9.167V22.34h2.4V10.654L15.851,22.34h1.721Z" transform="translate(5.663 0)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_193" data-name="Trazado 193" d="M-413.144,2092.187s1.187-1.023,2.1-.146a1.683,1.683,0,0,1,.23,2.03s-1.184,1.2-2.025,2.254a15.362,15.362,0,0,0-1.336,1.958s10.04-.614,23.868-9.935,15.244-13.134,15.244-13.134l-3.875.1s-1.55-.163-1.713-1.2,1.013-1.4,1.013-1.4,3.633-1,5.554-.579a2.741,2.741,0,0,1,2.133,2.268s2.615,4.177-16.849,16.521c-11.289,7.16-20.591,9.848-23.365,10.46a5.829,5.829,0,0,1-4.58-.767,3.354,3.354,0,0,1-.474-3.56C-416.317,2094.949-413.144,2092.187-413.144,2092.187Z" transform="translate(417.521 -2069.539)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
