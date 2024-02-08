@@ -20,12 +20,6 @@ export const locales = {
 	uk: { label: 'Українська', lang: 'uk' },
 };
 
-/* https://vercel.com/docs/projects/environment-variables/system-environment-variables#system-environment-variables */
-const VERCEL_PREVIEW_SITE =
-	process.env.VERCEL_ENV !== 'production' &&
-	process.env.VERCEL_URL &&
-	`https://${process.env.VERCEL_URL}`;
-
 const site = 'https://mauiuxguide.github.io/';
 
 export default defineConfig({
