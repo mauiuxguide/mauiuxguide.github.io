@@ -1,5 +1,5 @@
 ---
-title: Creación de contenido en Markdown
+title: Principios de diseño de interfaz de usuario
 description: Una descripción general de la sintaxis Markdown que soporta Starlight.
 ---
 

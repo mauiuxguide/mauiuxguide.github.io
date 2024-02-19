@@ -1,5 +1,5 @@
 ---
-title: Authoring Content in Markdown
+title: Principles of user interface design
 description: An overview of the Markdown syntax Starlight supports.
 ---
 

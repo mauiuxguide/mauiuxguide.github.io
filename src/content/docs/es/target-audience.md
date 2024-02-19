@@ -1,5 +1,5 @@
 ---
-title: Documentación ecológica
+title: Audiencia objetivo
 description: Aprende cómo Starlight puede ayudarte a construir sitios de documentación más ecológicos y reducir tu huella de carbono.
 ---
 

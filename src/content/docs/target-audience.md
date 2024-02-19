@@ -1,5 +1,5 @@
 ---
-title: Eco-friendly docs
+title: Target audience
 description: Learn how Starlight can help you build greener documentation sites and reduce your carbon footprint.
 ---
 

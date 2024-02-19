@@ -50,40 +50,40 @@ export default defineConfig({
 			locales,
 			sidebar: [
 				{
-					label: 'Start Here',
+					label: 'Introduction',
 					translations: {
-						es: 'Comienza aqui',
+						es: 'Introducción',
 					},
 					items: [
 						{
-							label: 'Getting Started',
-							link: 'getting-started',
+							label: 'What is MauiUX?',
+							link: 'what-is-mauiux',
 							translations: {
-								es: 'Empezando',
+								es: '¿Qué es MauiUX?',
 							},
 						},
 						{
-							label: 'Manual Setup',
-							link: 'manual-setup',
+							label: 'Objectives and benefits',
+							link: 'objectives-and-benefits',
 							translations: {
-								es: 'Configuración Manual',
+								es: 'Objetivos y beneficios',
 							},
 						},
 						{
-							label: 'Environmental Impact',
-							link: 'environmental-impact',
+							label: 'Target audience',
+							link: 'target-audience',
 							translations: {
-								es: 'Documentación ecológica',
+								es: 'Audiencia objetivo',
 							},
 						},
 					],
 				},
 				{
-					label: 'Guides',
+					label: 'UI/UX Basics',
 					translations: {
-						es: 'Guías',
+						es: 'Conceptos Básicos de UI/UX',
 					},
-					autogenerate: { directory: 'guides' },
+					autogenerate: { directory: 'ui-ux-basics' },
 				},
 				{
 					label: 'Reference',
