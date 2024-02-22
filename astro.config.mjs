@@ -86,19 +86,18 @@ export default defineConfig({
 					autogenerate: { directory: 'ui-ux-basics' },
 				},
 				{
-					label: 'Reference',
+					label: 'Stunning UIs with Controls',
 					translations: {
-						es: 'Referencias',
+						es: 'Impresionantes Interfaces de Usuario con Controles',
 					},
-					autogenerate: { directory: 'reference' },
+					autogenerate: { directory: 'stunning-uis-with-controls' },
 				},
 				{
-					label: 'Resources',
-					badge: 'New',
+					label: 'Animations in .NET MAUI',
 					translations: {
-						es: 'Recursos',
+						es: 'Animaciones en .NET MAUI',
 					},
-					autogenerate: { directory: 'resources' },
+					autogenerate: { directory: 'animations-in-net-maui' },
 				},
 			],
 			plugins: process.env.CHECK_LINKS

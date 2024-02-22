@@ -1,5 +1,5 @@
 ---
-title: Referencia de Personalización de Componentes
+title: Ejemplos de diseño utilizando controles estándar y personalizados
 description: Una descripción general de los componentes y props de componentes compatibles con los reemplazos de Starlight.
 tableOfContents:
   maxHeadingLevel: 4

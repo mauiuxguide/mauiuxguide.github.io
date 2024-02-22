@@ -1,5 +1,5 @@
 ---
-title: Referencia de Plugins
+title: Mejores prácticas para seleccionar y utilizar controles para lograr una interfaz de usuario hermosa y funcional
 description: Una descripción general de la API de plugins de Starlight.
 tableOfContents:
   maxHeadingLevel: 4

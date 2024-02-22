@@ -1,5 +1,5 @@
 ---
-title: Plugins Reference
+title: Best practices for selecting and using controls to achieve beautiful and functional user interfaces
 description: An overview of the Starlight plugin API.
 tableOfContents:
   maxHeadingLevel: 4

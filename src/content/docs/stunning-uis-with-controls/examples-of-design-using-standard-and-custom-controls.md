@@ -1,5 +1,5 @@
 ---
-title: Overrides Reference
+title: Examples of design using standard and custom controls
 description: An overview of the components and component props supported by Starlight overrides.
 tableOfContents:
   maxHeadingLevel: 4
