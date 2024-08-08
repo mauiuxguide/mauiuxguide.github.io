@@ -8,6 +8,15 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "MauiUX Guide",
+      editLink: {
+        baseUrl:
+          "https://github.com/mauiuxguide/mauiuxguide.github.io/edit/main/",
+      },
+      logo: {
+        light: "./src/assets/logo_light.svg",
+        dark: "./src/assets/logo_dark.svg",
+        replacesTitle: true,
+      },
       social: {
         github: "https://github.com/mauiuxguide/mauiuxguide.github.io",
       },
