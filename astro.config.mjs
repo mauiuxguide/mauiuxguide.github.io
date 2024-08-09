@@ -1,13 +1,21 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+export const locales = {
+  root: { label: "English", lang: "en" },
+  es: { label: "Español", lang: "es" },
+};
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://mauiuxguide.github.io",
   base: "",
   integrations: [
     starlight({
-      title: "MauiUX Guide",
+      title: {
+        en: "MauiUX Guide",
+        es: "Guía de MauiUX",
+      },
       editLink: {
         baseUrl:
           "https://github.com/mauiuxguide/mauiuxguide.github.io/edit/main/",
@@ -20,16 +28,23 @@ export default defineConfig({
       social: {
         github: "https://github.com/mauiuxguide/mauiuxguide.github.io",
       },
+      locales,
       sidebar: [
         {
           label: "Guides",
+          translations: { es: "Guia" },
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
+            {
+              label: "Example Guide",
+              slug: "guides/example",
+              translations: { es: "Guia de ejemplo" },
+            },
           ],
         },
         {
           label: "Reference",
+          translations: { es: "Referencia" },
           autogenerate: { directory: "reference" },
         },
       ],
