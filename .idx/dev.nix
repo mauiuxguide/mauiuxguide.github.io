@@ -9,7 +9,7 @@
   env = { };
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
-    extensions = [ "astro-build.astro-vscode"  "unifiedjs.vscode-mdx"];
+    extensions = [ "astro-build.astro-vscode"  "unifiedjs.vscode-mdx" "pflannery.vscode-versionlens"];
     workspace = {
       # Runs when a workspace is first created with this `dev.nix` file
       onCreate = {
